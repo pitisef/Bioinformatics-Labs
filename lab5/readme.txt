@@ -1,0 +1,1 @@
+this project was made by Ifrim Alexandru and only ran with 200 reads, in the screenshots because it would take hours to load 2000 reads.
