@@ -1,0 +1,35 @@
+Start   End     Unit Size Count   Pattern
+------------------------------------------------------------
+38      43      3         2       GGCGGC
+76      81      3         2       GAAGAA
+77      82      3         2       AAGAAG
+151     156     3         2       ACTACT
+248     253     3         2       TAGTAG
+276     281     3         2       CGACGA
+350     355     3         2       GCAGCA
+351     356     3         2       CAGCAG
+409     414     3         2       GAAGAA
+410     415     3         2       AAGAAG
+445     450     3         2       GGAGGA
+492     497     3         2       AGAAGA
+493     498     3         2       GAAGAA
+494     499     3         2       AAGAAG
+518     523     3         2       CAGCAG
+519     524     3         2       AGCAGC
+575     582     4         2       CGCACGCA
+665     670     3         2       GGGGGG
+709     714     3         2       GGAGGA
+729     734     3         2       GGCGGC
+972     977     3         2       GAAGAA
+1048    1053    3         2       TGCTGC
+1060    1065    3         2       GTCGTC
+1072    1077    3         2       TGTTGT
+1121    1126    3         2       TTGTTG
+1135    1142    4         2       CCGGCCGG
+1173    1178    3         2       GGAGGA
+1198    1203    3         2       TCATCA
+1199    1204    3         2       CATCAT
+1292    1297    3         2       CGTCGT
+1429    1434    3         2       AAGAAG
+1434    1441    4         2       GTAGGTAG
+1534    1539    3         2       CCTCCT
